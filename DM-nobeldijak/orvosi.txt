@@ -1,0 +1,214 @@
+2017 orvosi Hall Jeffrey C.
+2017 orvosi Rosbash Michael
+2017 orvosi Young Michael W.
+2016 orvosi Ohsumi Yoshinori
+2015 orvosi Campbell William C.
+2015 orvosi Ōmura Satoshi
+2015 orvosi Tu Youyou
+2014 orvosi O'Keefe John
+2014 orvosi Moser May-Britt
+2014 orvosi Moser Edvard I.
+2013 orvosi Rothman James E.
+2013 orvosi Schekman Randy W.
+2013 orvosi Südhof Thomas C.
+2012 orvosi Gurdon Sir John B.
+2012 orvosi Yamanaka Shinya
+2011 orvosi Beutler Bruce A.
+2011 orvosi Hoffmann Jules A.
+2011 orvosi Steinman Ralph M.
+2010 orvosi Edwards Robert G.
+2009 orvosi Blackburn Elizabeth H.
+2009 orvosi Greider Carol W.
+2009 orvosi Szostak Jack W.
+2008 orvosi zur Hausen Harald
+2008 orvosi Barré-Sinoussi Françoise
+2008 orvosi Montagnier Luc
+2007 orvosi Capecchi Mario R.
+2007 orvosi Evans Sir Martin J.
+2007 orvosi Smithies Oliver
+2006 orvosi Fire Andrew Z.
+2006 orvosi Mello Craig C.
+2005 orvosi Marshall Barry J.
+2005 orvosi Warren J. Robin
+2004 orvosi Axel Richard
+2004 orvosi Buck Linda B.
+2003 orvosi Lauterbur Paul C.
+2003 orvosi Mansfield Sir Peter
+2002 orvosi Brenner Sydney
+2002 orvosi Horvitz H. Robert
+2002 orvosi Sulston John E.
+2001 orvosi Hartwell Leland H.
+2001 orvosi Hunt Tim
+2001 orvosi Nurse Sir Paul M.
+2000 orvosi Carlsson Arvid
+2000 orvosi Greengard Paul
+2000 orvosi Kandel Eric R.
+1999 orvosi Blobel Günter
+1998 orvosi Furchgott Robert F.
+1998 orvosi Ignarro Louis J.
+1998 orvosi Murad Ferid
+1997 orvosi Prusiner Stanley B.
+1996 orvosi Doherty Peter C.
+1996 orvosi Zinkernagel Rolf M.
+1995 orvosi Lewis Edward B.
+1995 orvosi Nüsslein-Volhard Christiane
+1995 orvosi Wieschaus Eric F.
+1994 orvosi Gilman Alfred G.
+1994 orvosi Rodbell Martin
+1993 orvosi Roberts Richard J.
+1993 orvosi Sharp Phillip A.
+1992 orvosi Fischer Edmond H.
+1992 orvosi Krebs Edwin G.
+1991 orvosi Neher Erwin
+1991 orvosi Sakmann Bert
+1990 orvosi Murray Joseph E.
+1990 orvosi Thomas E. Donnall
+1989 orvosi Bishop J. Michael
+1989 orvosi Varmus Harold E.
+1988 orvosi Black Sir James W.
+1988 orvosi Elion Gertrude B.
+1988 orvosi Hitchings George H.
+1987 orvosi Tonegawa Susumu
+1986 orvosi Cohen Stanley
+1986 orvosi Levi-Montalcini Rita
+1985 orvosi Brown Michael S.
+1985 orvosi Goldstein Joseph L.
+1984 orvosi Jerne Niels K.
+1984 orvosi Köhler Georges J.F.
+1984 orvosi Milstein César
+1983 orvosi McClintock Barbara
+1982 orvosi Bergström Sune K.
+1982 orvosi Samuelsson Bengt I.
+1982 orvosi Vane John R.
+1981 orvosi Sperry Roger W.
+1981 orvosi Hubel David H.
+1981 orvosi Wiesel Torsten N.
+1980 orvosi Benacerraf Baruj
+1980 orvosi Dausset Jean
+1980 orvosi Snell George D.
+1979 orvosi Cormack Allan M.
+1979 orvosi Hounsfield Godfrey N.
+1978 orvosi Arber Werner
+1978 orvosi Nathans Daniel
+1978 orvosi Smith Hamilton O.
+1977 orvosi Guillemin Roger
+1977 orvosi Schally Andrew V.
+1977 orvosi Yalow Rosalyn
+1976 orvosi Blumberg Baruch S.
+1976 orvosi Gajdusek D. Carleton
+1975 orvosi Baltimore David
+1975 orvosi Dulbecco Renato
+1975 orvosi Temin Howard Martin
+1974 orvosi Claude Albert
+1974 orvosi de Duve Christian
+1974 orvosi Palade George E.
+1973 orvosi von Frisch Karl
+1973 orvosi Lorenz Konrad
+1973 orvosi Tinbergen Nikolaas
+1972 orvosi Edelman Gerald M.
+1972 orvosi Porter Rodney R.
+1971 orvosi Sutherland, Jr. Earl W.
+1970 orvosi Katz Sir Bernard
+1970 orvosi von Euler Ulf
+1970 orvosi Axelrod Julius
+1969 orvosi Delbrück Max
+1969 orvosi Hershey Alfred D.
+1969 orvosi Luria Salvador E.
+1968 orvosi Holley Robert W.
+1968 orvosi Khorana Har Gobind
+1968 orvosi Nirenberg Marshall W.
+1967 orvosi Granit Ragnar
+1967 orvosi Hartline Haldan Keffer
+1967 orvosi Wald George
+1966 orvosi Rous Peyton
+1966 orvosi Huggins Charles Brenton
+1965 orvosi Jacob François
+1965 orvosi Lwoff André
+1965 orvosi Monod Jacques
+1964 orvosi Bloch Konrad
+1964 orvosi Lynen Feodor
+1963 orvosi Eccles Sir John Carew
+1963 orvosi Hodgkin Alan Lloyd
+1963 orvosi Huxley Andrew Fielding
+1962 orvosi Crick Francis Harry Compton
+1962 orvosi Watson James Dewey
+1962 orvosi Wilkins Maurice Hugh Frederick
+1961 orvosi von Békésy Georg
+1960 orvosi Burnet Sir Frank Macfarlane
+1960 orvosi Medawar Peter Brian
+1959 orvosi Ochoa Severo
+1959 orvosi Kornberg Arthur
+1958 orvosi Beadle George Wells
+1958 orvosi Tatum Edward Lawrie
+1958 orvosi Lederberg Joshua
+1957 orvosi Bovet Daniel
+1956 orvosi Cournand André Frédéric
+1956 orvosi Forssmann Werner
+1956 orvosi Richards Dickinson W.
+1955 orvosi Theorell Axel Hugo Theodor
+1954 orvosi Enders John Franklin
+1954 orvosi Weller Thomas Huckle
+1954 orvosi Robbins Frederick Chapman
+1953 orvosi Krebs Hans Adolf
+1953 orvosi Lipmann Fritz Albert
+1952 orvosi Waksman Selman Abraham
+1951 orvosi Theiler Max
+1950 orvosi Kendall Edward Calvin
+1950 orvosi Reichstein Tadeus
+1950 orvosi Hench Philip Showalter
+1949 orvosi Hess Walter Rudolf
+1949 orvosi Moniz Antonio Caetano de Abreu Freire Egas
+1948 orvosi Müller Paul Hermann
+1947 orvosi Cori Carl Ferdinand
+1947 orvosi Cori, née Radnitz Gerty Theresa
+1947 orvosi Houssay Bernardo Alberto
+1946 orvosi Muller Hermann Joseph
+1945 orvosi Fleming Sir Alexander
+1945 orvosi Chain Ernst Boris
+1945 orvosi Florey Sir Howard Walter
+1944 orvosi Erlanger Joseph
+1944 orvosi Gasser Herbert Spencer
+1943 orvosi Dam Henrik Carl Peter
+1943 orvosi Doisy Edward Adelbert
+1939 orvosi Domagk Gerhard
+1938 orvosi Heymans Corneille Jean François
+1937 orvosi von Szent-Györgyi Nagyrápolt Albert
+1936 orvosi Dale Sir Henry Hallett
+1936 orvosi Loewi Otto
+1935 orvosi Spemann Hans
+1934 orvosi Whipple George Hoyt
+1934 orvosi Minot George Richards
+1934 orvosi Murphy William Parry
+1933 orvosi Morgan Thomas Hunt
+1932 orvosi Sherrington Sir Charles Scott
+1932 orvosi Adrian Edgar Douglas
+1931 orvosi Warburg Otto Heinrich
+1930 orvosi Landsteiner Karl
+1929 orvosi Eijkman Christiaan
+1929 orvosi Hopkins Sir Frederick Gowland
+1928 orvosi Nicolle Charles Jules Henri
+1927 orvosi Wagner-Jauregg Julius
+1926 orvosi Fibiger Johannes Andreas Grib
+1924 orvosi Einthoven Willem
+1923 orvosi Banting Frederick Grant
+1923 orvosi Macleod John James Rickard
+1922 orvosi Hill Archibald Vivian
+1922 orvosi Meyerhof Otto Fritz
+1920 orvosi Krogh Schack August Steenberg
+1919 orvosi Bordet Jules
+1914 orvosi Bárány Robert
+1913 orvosi Richet Charles Robert
+1912 orvosi Carrel Alexis
+1911 orvosi Gullstrand Allvar
+1910 orvosi Kossel Albrecht
+1909 orvosi Kocher Emil Theodor
+1908 orvosi Mechnikov Ilya Ilyich
+1908 orvosi Ehrlich Paul
+1907 orvosi Laveran Charles Louis Alphonse
+1906 orvosi Golgi Camillo
+1906 orvosi Ramón y Cajal Santiago
+1905 orvosi Koch Robert
+1904 orvosi Pavlov Ivan Petrovich
+1903 orvosi Finsen Niels Ryberg
+1902 orvosi Ross Ronald
+1901 orvosi von Behring Emil Adolf
